@@ -10,6 +10,7 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 /.idea/
+/.vs/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
@@ -59,3 +60,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Library
+PackageCache
