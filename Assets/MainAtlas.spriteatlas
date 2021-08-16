@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MainAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 1ef336455b53df547b375a2266aa5ceb, type: 3}
+    totalSpriteSurfaceArea: 329257
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1d566a20458210f4e8907e56469d5976, type: 3}
+  - {fileID: 21300000, guid: 8aee0041e7867cc478a102cb0dc7f6e1, type: 3}
+  - {fileID: 21300000, guid: c0b5e092f7bac714499f2cbb717ee228, type: 3}
+  - {fileID: 21300000, guid: e7736bb328dd48b478583b06871f66cf, type: 3}
+  - {fileID: 21300000, guid: 18207e149bb1bbc43a66e1c32ef6d91c, type: 3}
+  - {fileID: 21300000, guid: c820b2445d65f6c42a7e6aebec9dc4af, type: 3}
+  - {fileID: 21300000, guid: dbf97876246c0d243b29f6473439c08c, type: 3}
+  - {fileID: 21300000, guid: a3eeef092d4893943a952c886381c378, type: 3}
+  - {fileID: 21300000, guid: 9d839b4b387d06e4ea751677a54fa772, type: 3}
+  - {fileID: 21300000, guid: 354fa6bb724d68c439c56461f4d8d46a, type: 3}
+  - {fileID: 21300000, guid: 97a7621c3ec44c5438d10a927d075c4a, type: 3}
+  - {fileID: 21300000, guid: b88abe5f6f5206844aebc161712b6e24, type: 3}
+  - {fileID: 21300000, guid: a67bfc8fafe715e4f9665d90c41a39f5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - BigSaucer
+  - Player
+  - MedRock_1
+  - BigRock_3
+  - SmallRock_3
+  - SmallRock_1
+  - MedRock_2
+  - MedRock_3
+  - Bullet
+  - BigRock_2
+  - SmallSaucer
+  - SmallRock_2
+  - BigRock_1
+  m_RenderDataMap: {}
+  m_Tag: MainAtlas
+  m_IsVariant: 0

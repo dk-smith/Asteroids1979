@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf2a4a89ec174692af20415a3c59873b, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  aSpeed: 20
+  rSpeed: 350
+  startLives: 4
+  hyperDelay: 0.8
+  exploding: {fileID: 11400000, guid: d80933d64591f5849962402ccd7865dd, type: 2}
+  clips:
+  - {fileID: 8300000, guid: a62e7b72499434f4a863c6be94d1c4e9, type: 3}
+  - {fileID: 8300000, guid: 3b22ef6733b8ec9439b5639a597f6332, type: 3}
+  bullet: {fileID: 96278738666595604, guid: 10092238805af5946998b849405fc526, type: 3}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef8bc56cc1dc43b9ba0b4ef89e7f163c, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  startLives: 4
+  levels: 02000000030000000500000006000000070000000800000009000000
+  asteroid: {fileID: 5323705603627103549, guid: 6b2b6a9dc624afc478586c42ddac75c4,
+    type: 3}
+  saucers:
+  - {fileID: 1471941761953359937, guid: 761eff80a5191294ebbb693c026592e8, type: 3}
+  - {fileID: 1255673830240233280, guid: 7720671dc9f0774408f7396393e34a2b, type: 3}
+  saucerRespTimeRange: {x: 20, y: 30}
+  saucerRespCondition: 0.33
